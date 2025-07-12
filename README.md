@@ -2,45 +2,6 @@
 <html lang="th">
 <head>
   <meta charset="UTF-8">
-  <title>Facebook Friend Auto-Remover</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #f9f9f9;
-      color: #333;
-      line-height: 1.6;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    h1 {
-      color: #1877f2;
-    }
-    code {
-      background: #eee;
-      padding: 2px 6px;
-      border-radius: 4px;
-      font-family: monospace;
-    }
-    .warning {
-      background: #fff3cd;
-      border-left: 6px solid #ffc107;
-      padding: 10px;
-      margin-top: 20px;
-    }
-    .check {
-      color: green;
-    }
-    .steps, .benefits {
-      background: #e7f3ff;
-      border-left: 6px solid #2196f3;
-      padding: 10px;
-      margin-top: 20px;
-    }
-    ul {
-      padding-left: 20px;
-    }
-  </style>
 </head>
 <body>
 
